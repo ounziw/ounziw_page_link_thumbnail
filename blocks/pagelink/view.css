@@ -1,0 +1,9 @@
+div.pagelink {
+    margin: 5px 10px;
+    padding: 5px;
+    border: solid 1px #222;
+    border-radius: 4px;
+}
+.pagelinktitle, .pagelinkcontent {
+    margin-bottom: 5px;
+}
